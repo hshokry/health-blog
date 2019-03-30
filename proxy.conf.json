@@ -1,0 +1,10 @@
+{
+  "/static/healthspot-ui": {
+    "target": "http://localhost:4201/",
+    "secure": true
+  },
+  "/healthspot": {
+    "target": "http://localhost:8086/",
+    "secure": false
+  }
+}
